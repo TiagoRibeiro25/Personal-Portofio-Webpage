@@ -310,7 +310,7 @@ h1 {
    padding: 0 15px;
 }
 
-.project-card .project-info .project-title {
+.project-card .project-info .project-tile {
    font-family: "Montserrat", sans-serif;
    font-size: 1.6rem;
    font-weight: 700;
